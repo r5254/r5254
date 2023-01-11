@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi
+# 안녕하세요
 ## 만나서 반가와요:wink:
 > - [x] 이메일 : r5254@hanmail.net
 > - [x] 모바일 : 010-8653-9040
 
-** 🔭 I’m currently working on ...
-
+🔭 열공중입니다
