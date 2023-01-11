@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **r5254/r5254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
 # 안녕하세요
 ## 만나서 반가와요:wink:
 > - [x] 이메일 : r5254@hanmail.net
