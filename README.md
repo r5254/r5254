@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi
-##만나서 반가와요
+## 만나서 반가와요:wink:
+> - [x] 이메일 : r5254@hanmail.net
+> - [x] 모바일 : 010-8653-9040
+
+** 🔭 I’m currently working on ...
+
