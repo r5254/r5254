@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
 ## 안녕하세요 😄
 ### 만나서 반가와요:wink:
 - [x] 이메일 : mschakim@gmail.com
